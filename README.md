@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/34435082/README.2.md)
 <h1 align="center">Olá, eu sou o Maison</h1>
 
 <p align="center">
@@ -47,15 +46,6 @@ Cada repositório começa com uma tag que indica como ele foi feito:
 |---------|-----|-----------|
 | [IA-BARBER-STUDIO](https://github.com/bezerramaison7-debug/IA-BARBER-STUDIO) | ![IA](https://img.shields.io/badge/IA-7F77DD) | Template de site para barbearias de Araraquara/SP, personalizado e vendido em dois planos (Essencial e Premium). |
 | [IA-LOCACONTROL](https://github.com/bezerramaison7-debug/IA-LOCACONTROL) | ![IA](https://img.shields.io/badge/IA-7F77DD) | Sistema de gestão de locação de equipamentos: orçamentos, contratos, renovações, devoluções, estoque e portal do cliente. |
-
----
-
-### Estatísticas
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezerramaison7-debug&layout=compact&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas" />
-  <img height="160" src="https://streak-stats.demolab.com?user=bezerramaison7-debug&hide_border=true&background=00000000" alt="Sequência de commits" />
-</p>
 
 ---
 
