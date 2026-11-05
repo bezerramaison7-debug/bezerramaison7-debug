@@ -46,7 +46,7 @@ Cada repositório começa com uma tag que indica como ele foi feito:
 | Projeto | Tag | Descrição |
 |---------|-----|-----------|
 | [IA-BARBER-STUDIO](https://github.com/bezerramaison7-debug/IA-BARBER-STUDIO) | ![IA](https://img.shields.io/badge/IA-7F77DD) | Template de site para barbearias de Araraquara/SP, personalizado e vendido em dois planos (Essencial e Premium). |
-| IA-LOCACONTROL (https://github.com/bezerramaison7-debug/IA-LOCACONTROL) | ![IA](https://img.shields.io/badge/IA-7F77DD) | Sistema de gestão de locação de equipamentos: orçamentos, contratos, renovações, devoluções, estoque e portal do cliente. |
+| [IA-LOCACONTROL](https://github.com/bezerramaison7-debug/IA-LOCACONTROL) | ![IA](https://img.shields.io/badge/IA-7F77DD) | Sistema de gestão de locação de equipamentos: orçamentos, contratos, renovações, devoluções, estoque e portal do cliente. |
 
 ---
 
